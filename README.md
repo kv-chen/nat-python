@@ -1,0 +1,1 @@
+A simplified network address translation (NAT) program written for a school assignment. Multiple threads parse incoming and outgoing packets, translate their IP address and port fields, and forward them to specified ports on the local machine. The program drops invalid packets, recalculates checksums, and handles encapsulated UDP packets.
